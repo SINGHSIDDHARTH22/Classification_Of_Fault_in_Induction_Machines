@@ -25,6 +25,6 @@ Model Development: Creating a hybrid model that combines a Random Forest classif
 **Results**
 The project's outcomes indicate substantial improvements in fault diagnosis, potentially benefiting various industrial applications. The Random Forest model, in particular, showed promising results.
 
-**onclusion and Future Directions**
+**Conclusion and Future Directions**
 The study opens new avenues for integrating neural networks with ensemble learning in industrial settings. Future work may explore further refinements and broader applications of this model.
 
