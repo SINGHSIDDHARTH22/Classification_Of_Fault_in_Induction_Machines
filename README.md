@@ -3,7 +3,9 @@
 **Project Overview**
 
 **Author:** Siddharth Singh
+
 **Supervisor:** Dr. Sudha Radhika
+
 **Institution:** Birla Institute of Technology and Science Pilani, Hyderabad Campus
 
 This project focuses on enhancing fault classification in induction motors using advanced machine learning techniques. It combines the Generalized Hurst Exponent and R/S analysis for feature extraction and integrates a Random Forest classifier with a Recurrent Neural Network (RNN) for improved fault detection.
